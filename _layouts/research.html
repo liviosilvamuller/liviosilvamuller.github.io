@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="research-columns">
+
+  <!-- Publications -->
+  <div>
+    <h2 class="section-header">publications</h2>
+    {% for paper in site.data.published %}
+    <div class="paper">
+      <span class="paper-title">{{ paper.title }}</span>
+      {{ paper.publication }}
+      {% if paper.authors %}<br><span class="paper-authors">(with {{ paper.authors }})</span>{% endif %}
+      {% if paper.type %}<br><span class="paper-type">{{ paper.type }}</span>{% endif %}
+      {% if paper.links %}
+      <div class="paper-links">
+        {% for link in paper.links %}<a href="{{ link.url }}">{{ link.text }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if paper.notes %}
+      {% for note in paper.notes %}
+      <div class="paper-note">{{ note.html }}</div>
+      {% endfor %}
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Work in Progress -->
+  <div>
+    <h2 class="section-header">work in progress</h2>
+    {% for paper in site.data.working %}
+    <div class="paper">
+      <span class="paper-title">{{ paper.title }}</span>
+      {% if paper.publication %} {{ paper.publication }}{% endif %}
+      {% if paper.authors %}<br><span class="paper-authors">(with {{ paper.authors }})</span>{% endif %}
+      {% if paper.links %}
+      <div class="paper-links">
+        {% for link in paper.links %}<a href="{{ link.url }}">{{ link.text }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
