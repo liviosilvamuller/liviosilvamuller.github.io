@@ -1,0 +1,12 @@
+title: Livio Silva-Muller
+description: Academic website of Livio Silva-Muller
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md

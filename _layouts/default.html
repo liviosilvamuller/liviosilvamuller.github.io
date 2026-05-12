@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Livio Silva-Muller</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="site-title"><a href="/">livio silva-muller</a></h1>
+      <nav>
+        <a href="/" {% if page.url == "/" %}class="active"{% endif %}>home</a>
+        <a href="/research" {% if page.url contains "research" %}class="active"{% endif %}>research</a>
+        <a href="/book" {% if page.url contains "book" %}class="active"{% endif %}>book</a>
+        <a href="/cv" {% if page.url contains "cv" %}class="active"{% endif %}>cv</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} Livio Silva-Muller</p>
+    </footer>
+  </div>
+</body>
+</html>
