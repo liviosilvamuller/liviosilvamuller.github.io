@@ -19,13 +19,12 @@ title: home
       <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=PaU89CAAAAAJ">google scholar</a>
       <a href="https://github.com/liviosilvamuller">github</a>
       <a href="https://bsky.app/profile/liviosilva.bsky.social">bluesky</a>
-      <a href="https://twitter.com/lliviosilva">twitter</a>
       <a href="mailto:livio_silvamueller@fas.harvard.edu">email</a>
       <a href="/assets/cv.pdf">cv</a>
     </div>
   </div>
 
   <div class="photo">
-    <img src="/assets/profile.jpg" alt="Livio Silva-Muller">
+    <img src="/assets/profile.jpeg" alt="Livio Silva-Muller">
   </div>
 </div>
