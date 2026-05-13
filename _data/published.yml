@@ -56,13 +56,13 @@
   year: "2022"
   authors: "Moira Faul"
   links:
-    - text: "Paper."
+    - text: "Download."
       url: "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003148371-6/protecting-amazon-people-livio-silva-muller-moira-faul"
 
 # Commissioned reports
 
 - title: "Paying for Multilateralism Amid Global Shocks: International Geneva, 2016 to 2023."
-  journal: "Geneva Policy Outlook"
+  journal: "Commissioned study by the Kanton of Geneva"
   year: "2025"
   authors: "Remo Gassmann and Guilherme De Franco"
   links:
@@ -70,7 +70,7 @@
       url: "https://www.genevapolicyoutlook.ch/special-report-paying-for-multilateralism-amid-global-shocks-financing-of-international-organizations-in-geneva-2013-2023-2/"
 
 - title: "Paying for Multilateralism: Taking Stock on the Financing of International Organisations in Geneva, 2000–2020."
-  journal: "Geneva Policy Outlook Study Series"
+  journal: "Commissioned study by the Kanton of Geneva"
   year: "2024"
   authors: "Remo Gassmann"
   links:
