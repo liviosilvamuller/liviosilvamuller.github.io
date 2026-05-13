@@ -74,7 +74,7 @@ main { min-height: 60vh; }
 /* ── Home page ───────────────────────────────────────── */
 .home-grid {
   display: grid;
-  grid-template-columns: 1fr 220px;
+  grid-template-columns: 220px 1fr;
   gap: 3rem;
   align-items: start;
 }

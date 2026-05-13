@@ -4,6 +4,10 @@ title: home
 ---
 
 <div class="home-grid">
+  <div class="photo">
+    <img src="/assets/profile.jpeg" alt="Livio Silva-Muller">
+  </div>
+
   <div class="bio">
     <p>
       Hello! I'm a Harvard Academy Scholar. I completed my Ph.D. in Sociology at the Geneva Graduate Institute in 2025.
@@ -18,13 +22,10 @@ title: home
     <div class="links">
       <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=PaU89CAAAAAJ">google scholar</a>
       <a href="https://github.com/liviosilvamuller">github</a>
+      <a href="https://www.linkedin.com/in/silvamuller/">linkedin</a>
       <a href="https://bsky.app/profile/liviosilva.bsky.social">bluesky</a>
       <a href="mailto:livio_silvamueller@fas.harvard.edu">email</a>
       <a href="/assets/cv.pdf">cv</a>
     </div>
-  </div>
-
-  <div class="photo">
-    <img src="/assets/profile.jpeg" alt="Livio Silva-Muller">
   </div>
 </div>
