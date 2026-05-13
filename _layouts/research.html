@@ -9,9 +9,8 @@ layout: default
     {% for paper in site.data.published %}
     <div class="paper">
       <span class="paper-title">{{ paper.title }}</span>
-      {{ paper.publication }}
+      <br><span class="journal">{{ paper.journal }}</span>{% if paper.year %}, {{ paper.year }}.{% endif %}
       {% if paper.authors %}<br><span class="paper-authors">(with {{ paper.authors }})</span>{% endif %}
-      {% if paper.type %}<br><span class="paper-type">{{ paper.type }}</span>{% endif %}
       {% if paper.links %}
       <div class="paper-links">
         {% for link in paper.links %}<a href="{{ link.url }}">{{ link.text }}</a>

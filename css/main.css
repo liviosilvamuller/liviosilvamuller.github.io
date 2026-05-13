@@ -127,8 +127,8 @@ h2.page-title {
 
 .section-header {
   font-size: 1rem;
-  font-weight: 400;
-  font-style: italic;
+  font-weight: 500;
+  font-style: normal;
   color: var(--text);
   margin-bottom: 1.4rem;
   letter-spacing: 0;
@@ -172,9 +172,10 @@ h2.page-title {
 .paper-links a:hover { text-decoration: underline; }
 
 .paper-note {
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: var(--accent);
-  margin-top: 0.15rem;
+  margin-top: 0.1rem;
+  display: block;
 }
 
 @media (max-width: 680px) {
