@@ -3,7 +3,7 @@ layout: default
 title: cv
 ---
 
-<h2 class="section-header">cv & contact</h2>
+<h2 class="section-header">CV & Contact</h2>
 
 <div class="paper-entry">
   <p class="paper-links"><a href="/assets/cv.pdf">Download CV.</a></p>

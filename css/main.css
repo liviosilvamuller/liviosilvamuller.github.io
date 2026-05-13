@@ -178,6 +178,13 @@ h2.page-title {
   display: block;
 }
 
+.paper-abstract {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 0.6rem;
+  line-height: 1.5;
+}
+
 @media (max-width: 680px) {
   .research-columns {
     grid-template-columns: 1fr;

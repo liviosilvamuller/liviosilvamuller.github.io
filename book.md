@@ -3,8 +3,6 @@ layout: default
 title: book
 ---
 
-<h2 class="page-title">book project</h2>
-
 <div class="book-title">
   The Amazon as a Global Carbon Sink: How Scientists and Bureaucrats Built Climate Capacity in Brazil and What We Can Learn From It
 </div>

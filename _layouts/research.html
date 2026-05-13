@@ -5,7 +5,7 @@ layout: default
 
   <!-- Publications -->
   <div>
-    <h2 class="section-header">publications</h2>
+    <h2 class="section-header">Publications</h2>
     {% for paper in site.data.published %}
     <div class="paper">
       <span class="paper-title">{{ paper.title }}</span>
@@ -28,7 +28,7 @@ layout: default
 
   <!-- Work in Progress -->
   <div>
-    <h2 class="section-header">work in progress</h2>
+    <h2 class="section-header">Work in Progress</h2>
     {% for paper in site.data.working %}
     <div class="paper">
       <span class="paper-title">{{ paper.title }}</span>
@@ -39,6 +39,9 @@ layout: default
         {% for link in paper.links %}<a href="{{ link.url }}">{{ link.text }}</a>
         {% endfor %}
       </div>
+      {% endif %}
+      {% if paper.abstract %}
+      <div class="paper-abstract">{{ paper.abstract }}</div>
       {% endif %}
     </div>
     {% endfor %}
