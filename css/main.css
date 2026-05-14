@@ -185,10 +185,43 @@ h2.page-title {
   line-height: 1.5;
 }
 
+/* ── Research tabs (mobile only) ─────────────────────── */
+.research-tabs { display: none; }
+
 @media (max-width: 680px) {
   .research-columns {
     grid-template-columns: 1fr;
     gap: 2rem;
+  }
+
+  .research-tabs {
+    display: flex;
+    gap: 0;
+    margin-bottom: 1.8rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .research-tab {
+    flex: 1;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 0.5rem 0.5rem 0.6rem;
+    font-family: inherit;
+    font-size: 0.92rem;
+    color: var(--muted);
+    cursor: pointer;
+    margin-bottom: -1px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .research-tab.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+
+  .research-columns > div.tab-hidden {
+    display: none;
   }
 }
 

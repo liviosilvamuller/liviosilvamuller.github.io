@@ -1,10 +1,17 @@
 ---
 layout: default
 ---
+
+<!-- Mobile tab buttons (hidden on desktop via CSS) -->
+<div class="research-tabs">
+  <button class="research-tab active" data-target="publications">Publications</button>
+  <button class="research-tab" data-target="working">Work in Progress</button>
+</div>
+
 <div class="research-columns">
 
   <!-- Publications -->
-  <div>
+  <div id="publications">
     <h2 class="section-header">Publications</h2>
     {% for paper in site.data.published %}
     <div class="paper">
@@ -27,7 +34,7 @@ layout: default
   </div>
 
   <!-- Work in Progress -->
-  <div>
+  <div id="working">
     <h2 class="section-header">Work in Progress</h2>
     {% for paper in site.data.working %}
     <div class="paper">
@@ -48,3 +55,19 @@ layout: default
   </div>
 
 </div>
+
+<script>
+  (function () {
+    var tabs = document.querySelectorAll('.research-tab');
+    tabs.forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        tabs.forEach(function (t) { t.classList.remove('active'); });
+        tab.classList.add('active');
+        var target = tab.getAttribute('data-target');
+        document.querySelectorAll('.research-columns > div').forEach(function (panel) {
+          panel.classList.toggle('tab-hidden', panel.id !== target);
+        });
+      });
+    });
+  })();
+</script>
