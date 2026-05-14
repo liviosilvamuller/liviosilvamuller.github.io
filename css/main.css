@@ -194,11 +194,12 @@ h2.page-title {
 
 /* ── Book page ───────────────────────────────────────── */
 .book-title {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   font-weight: 500;
   line-height: 1.4;
   margin-bottom: 1.5rem;
   color: var(--text);
+  text-align: center;
 }
 
 .book-body p { margin-bottom: 1.1rem; }

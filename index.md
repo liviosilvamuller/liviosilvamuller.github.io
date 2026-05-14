@@ -16,6 +16,9 @@ title: home
       My research focuses on challenges related to decarbonization, development, and democracy in global and comparative perspective. More specifically, I am interested in questions such as how states develop the capacity to decarbonize and pursue development; how global and domestic constraints condition these processes; and how the worldviews of political and economic elites influence these trajectories. I am trained in both qualitative and computational methods and take great pleasure in learning, using and teaching new methods.
     </p>
     <p>
+      I am currently working on a <a href="/book">book</a> that examines the contradictions between environmental and developmental state-building in the Brazilian Amazon, tracing how distinct bureaucratic cultures and transnational networks explain both Brazil's remarkable decarbonization and growth successes, but also the limits of old and new attempts to decouple emissions from growth.
+    </p>
+    <p>
       My <a href="/research">research</a> has appeared or is forthcoming in the <em>American Journal of Sociology</em>, <em>Social Forces</em>, and the <em>British Journal of Sociology</em>, among other outlets. It has also received multiple awards from the American Sociological Association (ASA) and the Latin American Studies Association (LASA), as well as competitive grants from the Swiss Network for International Studies (SNIS), the Swiss State Secretariat for Education, Research, and Innovation (SERI), and the Swiss National Science Foundation (SNF).
     </p>
 
