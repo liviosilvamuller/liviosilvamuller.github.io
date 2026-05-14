@@ -257,7 +257,7 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .home-grid .photo { order: -1; max-width: 160px; }
+  .home-grid .photo { order: -1; max-width: 160px; margin: 0 auto; }
 
   header {
     flex-direction: column;
