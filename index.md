@@ -10,10 +10,10 @@ title: home
 
   <div class="bio">
     <p>
-      Hello! I'm a Harvard Academy Scholar. I completed my Ph.D. in Sociology at the Geneva Graduate Institute in 2025.
+      Hello! I'm a postdoctoral fellow at the Harvard Academy. I completed my Ph.D. in Sociology at the Geneva Graduate Institute in 2025.
     </p>
     <p>
-      My research focuses on challenges related to decarbonization, development, and democracy in global and comparative perspective. More specifically, I am interested in questions such as how states develop the capacity to decarbonize and pursue development; how global and domestic forces — such as international organizations or democratic backsliding — enable and constrain these state-building processes; and how the worldviews of political and economic elites influence these trajectories. I am trained in both qualitative and computational methods and take great pleasure in learning, using and teaching new methods.
+      My research focuses on challenges related to decarbonization, development, and democracy in global and comparative perspective. More specifically, I am interested in questions such as how states develop the capacity to decarbonize and pursue development; how global and domestic forces (e.g. international organizations or democratic backsliding) enable and constrain these state-building processes; and how the worldviews of political and economic elites influence these trajectories. I am trained in both qualitative and computational methods and take great pleasure in learning, using and teaching new methods.
     </p>
     <p>
       I am currently working on a <a href="/book">book</a> that examines the contradictions between environmental and developmental state-building in the Brazilian Amazon, tracing how distinct bureaucratic cultures and transnational networks explain both Brazil's remarkable decarbonization and growth successes, but also the limits of old and new attempts to decouple emissions from growth.
