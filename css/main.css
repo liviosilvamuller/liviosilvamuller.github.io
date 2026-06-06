@@ -87,6 +87,8 @@ main { min-height: 60vh; }
 
 .bio p { margin-bottom: 1.1rem; }
 
+.accent { color: var(--accent); }
+
 .bio p:last-child { margin-bottom: 0; }
 
 .links {
