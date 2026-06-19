@@ -2,9 +2,9 @@
 
 - title: "Reach and Retrenchment of the Environmental State: Global Climate Politics in the Amazon Rainforest."
   journal: "American Journal of Sociology"
-  year: "2026, online first"
+  year: "2026"
   links:
-    - text: "Paper."
+    - text: "Paper, online first."
       url: "https://www.journals.uchicago.edu/doi/10.1086/741696"
   notes:
     - html: "ASA Environmental Sociology Graduate Student Paper Award"
@@ -13,12 +13,15 @@
 
 - title: "Whose Merit, which Redistribution? Elites, Taxes, and Transfers in Brazil and South Africa."
   journal: "Social Forces"
-  year: "2026, forthcoming"
+  year: "2026"
   authors: "Graziella Moraes Silva and Matias Lopez"
+  links:
+    - text: "Paper."
+      url: "https://academic.oup.com/sf/advance-article/doi/10.1093/sf/soag064/8711369"
 
 - title: "Which Amazon Problem? Problem-constructions and Transnationalism in Brazilian Presidential Discourse since 1985."
   journal: "Environmental Politics"
-  year: "2024, 33(3), 398–421"
+  year: "2024"
   authors: "Henrique Sposito"
   links:
     - text: "Paper."
@@ -28,7 +31,7 @@
 
 - title: "How Race Matters for Elites' Views on Redistribution."
   journal: "British Journal of Sociology"
-  year: "2025, 76:1100-1117"
+  year: "2025"
   authors: "Chana Teeger and Graziella Moraes Silva"
   links:
     - text: "Paper."
@@ -36,7 +39,7 @@
 
 - title: "Payment for Ecosystem Services and the Practices of Environmental Fieldworkers in Policy Implementation: The Case of Bolsa Floresta in the Brazilian Amazon."
   journal: "Land Use Policy"
-  year: "2022, 120, 106251"
+  year: "2022"
   links:
     - text: "Paper."
       url: "https://www.sciencedirect.com/science/article/abs/pii/S0264837722002782"
