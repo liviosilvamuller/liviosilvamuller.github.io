@@ -19,7 +19,7 @@ title: home
       I am currently working on a <a href="/book">book</a> that examines the contradictions between environmental and developmental state-building in the Brazilian Amazon since the 1980s. The book traces how distinct bureaucratic cultures and transnational networks explain both Brazil's remarkable decarbonization and growth successes, but also the limits of old and new attempts to decouple emissions from growth.
     </p>
     <p>
-      My <a href="/research">research</a> has appeared or is forthcoming in the <em>American Journal of Sociology</em>, <em>Social Forces</em>, and the <em>British Journal of Sociology</em>, among other outlets. It has also received multiple awards from the American Sociological Association (ASA) and the Latin American Studies Association (LASA), as well as competitive grants from the Swiss Network for International Studies (SNIS), the Swiss State Secretariat for Education, Research, and Innovation (SERI), and the Swiss National Science Foundation (SNF).
+      My <a href="/research">research</a> has appeared in the <em>American Journal of Sociology</em>, <em>Social Forces</em>, and the <em>British Journal of Sociology</em>, among other outlets. It has also received multiple awards from the American Sociological Association (ASA) and the Latin American Studies Association (LASA), as well as competitive grants from the Swiss Network for International Studies (SNIS), the Swiss State Secretariat for Education, Research, and Innovation (SERI), and the Swiss National Science Foundation (SNF).
     </p>
 
     <div class="links">
