@@ -3,6 +3,25 @@
   links:
     - text: "Preprint."
       url: "https://osf.io/preprints/socarxiv/tqvm7_v1"
+  abstract: >
+    Scholars writing about the interface between qualitative and computational
+    methods have rightly focused on machine learning. But computation can also
+    change qualitative fieldwork in quieter ways, through scrapping, parsing,
+    optical character recognition, archiving, and zooming. This paper situates
+    computational methods within a wider digital era and argues that they
+    entangle fieldwork spatially (by increasing its geographical reach),
+    temporally (by accelerating research), and epistemically (by influencing
+    what we can know). I show these kinds of entanglement by reflecting on my
+    own comparative-historical study of Brazil's decarbonization capacities,
+    which was conducted within a Ph.D. structured by COVID-19. Before the
+    lockdown, fieldwork relied on direct observation and interviews with
+    environmental fieldworkers and policymakers. During lockdown, computation
+    provided continuity: web scraping, archival digitization, and machine
+    learning substituted travel and extended the field in time and space. After
+    restrictions eased, these computational results were reintroduced into
+    interviews through visualizations that prompted important findings but
+    highlighted blind spots. I conclude by discussing computational optimism and
+    pessimism and the importance of documenting one's research purpose.
 
 - title: "An Autopsy of State Finances: How Legal Designs Safeguard Policy from Dismantling."
   publication: "Full draft available."
