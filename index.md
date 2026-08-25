@@ -10,7 +10,7 @@ title: home
 
   <div class="bio">
     <p>
-      Hello! I'm a postdoctoral fellow at the Harvard Academy. I completed my Ph.D. in Sociology at the Geneva Graduate Institute in 2025.
+      Hello! I'm a postdoctoral fellow at the Harvard Academy. I completed my Ph.D. in Sociology at the Geneva Graduate Institute in 2025. I am currently on the job market!
     </p>
     <p>
       My research focuses on challenges related to <strong><span class="accent">decarbonization, development, and democracy in global and comparative perspective</span></strong>. More specifically, I am interested in questions of bureaucratic capacity and elite resistance; how global and domestic forces (e.g. international organizations or democratic backsliding) enable and constrain these state-building processes; and how the worldviews of political, economic, and bureaucratic elites influence these trajectories. I am trained in both qualitative and computational methods and take great pleasure in learning, using and teaching new methods.
