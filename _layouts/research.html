@@ -48,7 +48,10 @@ layout: default
       </div>
       {% endif %}
       {% if paper.abstract %}
-      <div class="paper-abstract">{{ paper.abstract }}</div>
+      <details class="paper-abstract-toggle">
+        <summary>Abstract</summary>
+        <div class="paper-abstract">{{ paper.abstract }}</div>
+      </details>
       {% endif %}
     </div>
     {% endfor %}

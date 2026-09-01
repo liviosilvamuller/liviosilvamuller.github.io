@@ -187,6 +187,39 @@ h2.page-title {
   line-height: 1.5;
 }
 
+.paper-abstract-toggle {
+  margin-top: 0.35rem;
+}
+
+.paper-abstract-toggle > summary {
+  list-style: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  color: var(--accent);
+  user-select: none;
+}
+
+.paper-abstract-toggle > summary::-webkit-details-marker { display: none; }
+
+.paper-abstract-toggle > summary::before {
+  content: "\25B8";
+  font-size: 0.7rem;
+  transition: transform 0.15s ease;
+}
+
+.paper-abstract-toggle[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.paper-abstract-toggle > summary:hover { text-decoration: underline; }
+
+.paper-abstract-toggle .paper-abstract {
+  margin-top: 0.4rem;
+}
+
 /* ── Research tabs (mobile only) ─────────────────────── */
 .research-tabs { display: none; }
 
